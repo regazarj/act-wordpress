@@ -1,0 +1,130 @@
+nav ul {
+	display: inline-block;
+	list-style-type: none;
+	margin-top: 25px;
+	font-size: 20px;
+}
+nav{
+    flex: 1;
+	text-align: right;
+}
+nav ul li{
+	display: inline-block;
+	margin-right: 50px;
+}
+nav ul li a{
+    text-decoration: inherit;
+    text-emphasis-color: aliceblue;
+    color: white !important;
+}
+.header_logo{
+    margin-top: -70px;
+    margin-left: 40px;
+}
+#home_pic_1{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.home_text h1{
+    margin-left: 580px;
+    margin-top: -320px;
+    color: white;
+}
+#home_pic_2{
+    margin-left: 850px;
+}
+.page{
+    background: #000000;
+}
+.home_text h2{
+    color: red;
+    margin-left: 580px;
+    margin-top: -125px;
+}
+.home_text p{
+    color: white;
+    margin-left: 580px;
+    margin-top: -10px;
+}
+.contact_text h1{
+    font-size: 40px;
+    text-align: center;
+    color: white !important;
+}
+.contact_text p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.message_us label{
+    color: white;
+}
+.message_us{
+    text-align: center;
+
+}
+#name{
+    width: 30%;
+    margin-left: 24px;
+    height: 25px;
+}
+#message{
+    width: 30%;
+    height: 100px;
+    margin-left: 16px;
+}
+#address{
+    height: 25px;
+    width: 30%;
+}
+.about_text h1{
+    color: white;
+    font-size: 30px;
+    margin-left: 800px;
+    color: yellow;
+}
+.about_text h2{
+    color: white;
+    font-size: 20px;
+    margin-left: 800px;
+}
+.about_text_1 h1{
+    color: white !important;
+    font-size: 50px;
+    margin-top: -170px;
+    margin-left: 50px;
+}
+.about_text_1 p{
+    color: white !important;
+    margin-top: -40px;
+    font-size: 20px;
+    margin-left: 50px; 
+}
+.about_text_1 h2{
+    margin-left: 50px;
+    color: white;
+}
+#rj_pic{
+    margin-left: 50px;
+}
+.page{
+    color: white;
+}
+#page{
+    background: black;
+    color: white !important;
+}
+.woocommerce .products ul, .woocommerce ul.products {
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    color: white;
+}
+.entry-header h1{
+    text-align: center;
+}
+.entry-content p{
+    margin-left: 5% !important;
+}
+.woocommerce-ordering{
+    margin-right: 5% !important;
+}
